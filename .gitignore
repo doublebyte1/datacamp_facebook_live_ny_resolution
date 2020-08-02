@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+solution_New_Years_Resolutions_Workshop.ipynb
+notes.md
+test.ipynb
+
